@@ -1,0 +1,119 @@
+* Vocabulary                                                            
+** reduction [rɪ'dʌkʃən]
+n. 还原；降低；减少；缩小 | 网络 缩减；减量；减小
+** algebraic [.ældʒə'breɪɪk]
+adj. 代数的 | 网络 关于代数学的；代数学；代数上的
+** metric ['metrɪk]
+adj. 米制的；公制的；按公制制作的；用公制测量的 | 网络 度量；度量值；公制牙
+** niches [nɪtʃ]
+n. 壁龛；(适合个人性格,能力等的)适当地位；【生】小生境；【地】雪凹 | 网络 利基；生态位；利基市场
+** ossify ['ɑsɪ.faɪ]
+v. （使）僵化；（使）固定不变；使骨化；骨质化 | 网络 硬化；使硬化；僵化的
+** grain [ɡreɪn]
+n. 谷物；颗粒；谷粒；一点儿 | v. 把…作成细粒；使(皮等)表面粗糙；染透；刮去(皮上的)毛 | 网络 粮食；谷类；格令
+** constituency [kən'stɪtʃuənsi]
+n. （选举议会议员的）选区；选区的选民；（统称）支持者 | 网络 全体选民；顾客；选区的居民
+** exhaustive [ɪɡ'zɔstɪv]
+adj. 详尽的；彻底的；全面的 | 网络 无遗漏的；穷尽；穷尽的
+** parallelism ['perəlel.ɪzəm]
+n. 相似；相似的特点 | 网络 排比；平行度；平行结构
+** wrap up [ wear;put on]
+na. 包起来；包好；穿暖和些；〈非正式〉完成 | 网络 结束；包裹；总结
+** propagation [ˌprɒpə'ɡeɪʃ(ə)n]
+n. 传播；扩展；宣传；培养 | 网络 繁殖；增殖；蔓延
+** inconsistency [.ɪnkən'sɪstənsi]
+na. “inconsistence”的变体 | 网络 矛盾；不一致；不一致性
+** constituent [kən'stɪtʃuənt]
+n. 成分；构成要素；（选区的）选民 | adj. 组成的；构成的 | 网络 形成的；组分；成份
+** article ['ɑrtɪk(ə)l]
+n. 论文；物件；（协议、契约的）条款 | v. 列举(罪状)；控告；把…逐条登载；用条款约束 | 网络 文章；冠词；物品
+** parsing [pɑrs]
+v. 语法分析；【语言学】从语法上分析 | n. 〔计〕语法分析；〔语〕分析；语法分析器 | 网络 解析；句法分析；解析过程
+** Lexical ['leksɪk(ə)l]
+adj. 词汇的 | 网络 词法；词法的；辞典的
+** ecstatic [ɪk'stætɪk]
+adj. 狂喜的；热情极高的 | 网络 欣喜若狂的；入迷的；狂喜的人
+** punchline ['pʌntʃlaɪn]
+n. 指一整段笑话中最后几句最能引人发笑的点睛之笔 | 网络 头条笑料；妙语；抖包袱
+** axiom ['æksiəm]
+n. 公理 | 网络 定理；公设；格言
+** denominator [dɪ'nɑmɪ.neɪtər]
+n. 分母 | 网络 命名者；共同特性；标准
+** numerator ['numə.reɪtər]
+n. （分数中的）分子 | 网络 分数的分子；计数器；示号器
+** derivative [dɪ'rɪvətɪv]
+n. 衍生物；派生词；衍生字；派生物 | adj. 模仿他人的；缺乏独创性的 | 网络 导数；派生的；衍生工具
+** elaborate [ɪˈlæb(ə)rət]
+v. 精心制作；详尽阐述；详细描述；详细制订 | adj. 复杂的；详尽的；精心制作的 | 网络 精心设计的；精心构思的；精心的
+** 参数 [cān shù] 
+na. parameter | 网络 Parameter; Parameters; argument
+** 预处理 [yù chǔ lǐ] 
+na. pretreatment; preconditioning | 网络 Preprocessing; preprocess; preliminary treatment
+** elucidate [iˈluːsiˌdeɪt]
+v. 说明；解释；阐明；阐释 | 网络 阐发；的阐明；阐明并发挥
+** 收敛的 
+adj. astringent; convergent; converging | 网络 converged; ferme; Convergence
+** oscillate ['ɑsɪ.leɪt]
+v. 振动；振荡；摆动；（情感或行为）摇摆 | 网络 犹豫；动摇；浮沉
+** canonical [kə'nɑnɪk(ə)l]
+adj. 被收入真经篇目的；经典的；按照基督教教会法规的 | n. (布道时应穿的)法衣 | 网络 标准；规范的；典型
+** 缩进 
+n. tuckunder; set bck | 网络 indent; indentation; retract
+** 过程 [guò chéng] 
+n. history; current; routine | 网络 process; procedure; course
+** illusion [ɪ'luʒ(ə)n]
+n. 错觉；幻想；错误的观念；幻想的事物 | 网络 幻觉；幻象；假象
+** roam [roʊm]
+n. 漫游 | v. 徜徉；漫步；闲逛；摸遍 | 网络 云游；在…漫步；游荡
+** Fibonacci
+网络 斐波那契；斐波纳契；斐波那契数列
+** opposite ['ɑpəzɪt]
+n. 反面；对立面；对立的人（或物） | adj. 对面的；另一边的；相反的；迥然不同的 | prep. 与…相对；在…对面；与…合演；与…联袂演出 | adv. 在对面 | 网络 在……对面；相对的；对生
+** nearly ['nɪrli]
+adv. 几乎；将近；差不多 | 网络 大约
+** cryptographic [ˌkrɪptə'græfɪk]
+adj. 关于暗号的 | n. 隐晶文象状 | 网络 密码；密码的；用密码写的
+** standalone ['stændəˌloʊn]
+na. 孤立；卓越 | 网络 独立；独立的；独立式
+** implemented ['ɪmplə.ment]
+v. 实施；执行；落实(政策)；使生效 | n. 工具；器具；〈英〉【法】履行(契约等) | 网络 实现；贯彻；完成
+** yields [jild]
+n. 产量；收益；屈服；收成 | v. 让步；屈服；生产；产生(作物,报酬,利益等) | 网络 产量换算；殖利率；收益率
+** predicate ['predɪkeɪt] 
+v. 断言；使基于；使以…为依据；表明 | adj. 述语的；谓项的 | n. 谓语（句子成分，对主语加以陈述，如 John went home 中的 went home） | 网络 谓词；述词；断定
+** in the long run 
+na. 归根到底；“in the long run/term”的变体 | 网络 从长远来看；最后；从长远观点看
+** religiously [rə'lɪdʒəsli]
+adv. 十分认真地；审慎地；很有规律地；与宗教相关地 | 网络 虔诚地；笃信地；虔敬地
+** 规约 [guī yuē] 
+na. stipulations of an agreement | 网络 protocol; Specification; Statute
+** vince [vins] 
+n. 【男名】男子名 | 网络 文斯；文丝；张敖杰
+** statically [s'tætɪklɪ]
+   adv. 静定地 | 网络 静态的；静态检查的界面；不屈不挠的勇气
+** heap [hip]
+n. 大量；（凌乱的）一堆；许多；破旧的汽车 | v. 堆积（东西）；堆置；在…上放很多（东西） | 网络 堆区；堆内存；内存堆
+** profiler ['prəʊfaɪlə(r)]
+n. 剖面测量仪；成型铣床；仿型工具机；仿型切割机 | 网络 分析器；分析工具；事件探查器
+** prediction [prɪ'dɪkʃ(ə)n]
+n. 预测；预言；预告 | 网络 预报；预测型知识；预测将要发生的事
+** mediocre [.midi'oʊkər]
+adj. 平庸的；普通的；平常的 | 网络 普普通通的；中等的；平凡的
+** concatenation [kən.kætə'neɪʃ(ə)n]
+n. 一系列相关联的事物（或事件） | 网络 串联；连接；串接
+** circumscribe ['sɜrkəm.skraɪb]
+v. 限制；画…的外接圆 | 网络 在...周围画线；约束；外切
+** stumped [stʌmp]
+n. 树墩；树桩；残肢；残端 | v. 〈非正式〉犯愁；困惑；把…难住；一筹莫展 | 网络 难住的；被难住了；假肢
+** monolithic [ˌmɒnəˈliθik]
+adj. 庞大的；巨石的；整体(式)的；铁板一块的 | 网络 单片；整体式；整体的
+** 重要的 
+adj. vital; valuable; substantial | 网络 important; significant; considerable
+** 精简 [jīng jiǎn] 
+na. simplify; cut; reduce; retrench | 网络 Downsizing; condense; streamline
+** imperative [ɪmˈperətɪv]
+adj. 重要紧急的；迫切的；急需处理的；表示权威的 | n. 重要紧急的事；必要的事；祈使语气；祈使语气动词 | 网络 命令式；强制的；祈使句
+** populate ['pɑpjə.leɪt]
+v. 居住于；生活于；构成…的人口；迁移 | 网络 填入；填充；居住于…中
+** hop into 
+网络 跳进

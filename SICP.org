@@ -1,0 +1,106 @@
+* How to Art
+  - That means wos should describe a specific solution with reduced
+    procedure that mey be boring or small to deal with different kinds
+    of problem belonging to the same category even there seem to be
+    big span between them.
+  - just like "add". it means put two same "thing" together, what we
+    should do is finding how to describe "same" and "two". Then how to
+    describe "put together".
+  - our program should not be complex, I mean, it should contain
+    different modules, and gether them together. We should also offer
+    interface for it, because we should support user with frindly
+    interation, which is substantial(curcial).
+  - (+ a b)
+  - on different level of add, it may contain complex manipulates, but
+    at their level, the logic is same.
+  - offering interface reduce the complexibity of program. The
+    interface is always conventional. So we can use it to realize the
+    functions of upper level
+  - Sometimes offering interface means initialize some paramater of
+    the program.
+* ways to control flexibility
+  1. making new languages
+* components of language
+  1. Primitive Elements
+  2. Means of combination
+  3. Means of abstraction
+* substitution(代换) rules
+  1. evaluate the operator to get procedure
+  2. evaluate the operands to get auguments
+  3. apply the procedure to the auguments
+     - copy the body of procedure, substituting the auguments supplied
+       for the formal paramaters of the procedure.
+     - Evaluate the resulting new body ;; just like substitute the
+       former application with a new body which is defined as body,
+       and the paramaters is substituted, too. 
+  4. The key to understanding complacted thing is know what not to look
+  at and what not compute and what not to think
+* other order evaluation called normal order evaluation
+  - substitute the operands with expressions
+  - the order doesn't affect the answer
+* evaluate if expression
+  1. evaluate the predicate(述词 断定) expression
+     - if it yields true
+       * evaluate the consequent expression
+     - otherwise
+       * evaluate the alternative expression
+  2. <predicate>
+  3. <conditions>
+  4. <alternative>
+* two dimension during the evaluation
+  - space
+  - time
+  - Recursion and interation
+* Higher order procedure
+  - if we know the result we simply write it down
+  - else we simplify it into small procedures
+  - I can write down some procedure to structure the problem to solve
+    the same kind of problem (common pattern of usage)
+  - one of the things you can do in this language that we're showing
+    you is not only do you know something like that but you give the
+    knowledage of that a name
+* procedure arugments（过程参数）
+  - write arugments in level with the same identation
+  - two ways to get a converging number
+    1. take average
+    2. damp out (渐次减弱振动幅度)
+    3. we can do some pretreatment（预处理） with lambda and send it
+       as arugment to another lambda
+* The rights and privileges of first-class citizens
+  1. to be named by variables
+  2. to be passwd as arguments to procedures
+  3. to be returned as values of procedures
+  4. to be incorporated into data structures
+* Building things
+  - we divorce task of building things from the task of implementing
+    the parts
+* compound data（复合数据）data abstraction
+  - means of combination data
+  - methodology of abstraction
+  - primitive data
+  - selectors and constructors
+  - We are separating the way objects is used from the
+    representation of data objects(constructors and selectors)
+  - it means that we have the flexibility to realize a problem, we can
+    use the wishful thinking, to do the next stage of program without
+    thinking how to realize the way difining the data
+  - pairs of pairs is substantial, because it shows that if we can
+    construce a thing which is closure（闭包
+  - There is some contract we can combinate the abstraction layer and
+    the using layer to testify whether the abstraction is suitable
+    enough even if we don't know how abstraction is realized
+  - The abstraction of structure don't consist of any numbers
+* Henderson Escher（亨德森埃舍尔）
+  - his work is full of science and phisolophy and always represent a paradox
+* meta-linguistic abstraction
+  - the idea that one of the ways of tackling complexibity in
+    engineering design
+  - we're using the procedural representation to ensure this closure 
+* dispatch on the type of the expression
+  - languages is made out of different expressions
+* pattern-maching: rule-based substitution
+  - pattern - skeleton - source expression - target expression
+  - rule each rule has pattern and skeleton
+  - match
+  - instantiater
+

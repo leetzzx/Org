@@ -1,0 +1,20 @@
+* Introduction
+  - compilers
+    * take program as input and produce an executable that can be run
+      separately on your data  
+  - interpreters
+    * all part of running your program
+* five part of compiler      
+  - Lexical analysis（词汇分析）
+  - parsing（语法分析）
+  - semantic analysis（语义分析）
+  - optimization  
+  - code generation
+* the economy of programing language
+  - why so many programing language
+  - whay new programing language
+  - what is a good programing language metric
+    1. widely used languages are slow to change
+    2. easy to start a new language
+    3. languages adopted to fill a void niches
+    4. new languages tend to look like old languages 
