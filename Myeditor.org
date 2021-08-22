@@ -1,0 +1,51 @@
+* ideas
+  1. open file
+  2. print file
+  3. write file
+  4. keybinding
+  5. command line
+  6. quick move
+* modules
+** file class
+*** open file
+*** print file
+    - print file should be planned as we think
+    - print empty line
+    - print cursor
+    - print linenumber
+    - whether the line is wraped
+    - what does the cursor look like
+*** edit file
+*** write file
+*** recent file
+*** rc config file
+*** recongnize file type and perform differently
+** operator class
+   - map different functions to operators
+** keybinding class
+   - binding operators to keys 
+*** recorgnize keys
+*** binding to specific operators
+    - this rely on operator class
+*** rebinding
+*** multi-binding
+** window class    
+*** open command line
+*** split windows
+** buffer class
+*** record the file opened
+*** switch between buffers
+** Privilege manage
+** libs
+   - readline
+   - libedit
+   - termcap
+** 一些流程 interrogating
+   1. 选一个图形界面
+   2. 为文本设计一个数据结构
+   3. 文本排版
+   4. 语言模型 word2vec
+      - 还有与文本相关的排序一类的东西
+   5. 内嵌模块
+   6. 内嵌脚本语言
+   7. 国际化支持

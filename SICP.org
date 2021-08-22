@@ -76,6 +76,7 @@
     the parts
 * compound data（复合数据）data abstraction
   - means of combination data
+  - compound object should look like a primitive
   - methodology of abstraction
   - primitive data
   - selectors and constructors
@@ -103,4 +104,38 @@
   - rule each rule has pattern and skeleton
   - match
   - instantiater
-
+* Generic Operators
+  - dispatch on type
+  - data-directed programming
+    * the data objects themselves are catting with them the
+      informanion about how you should operate on them
+  - DECENTRALIZED CONTROL
+* assignment
+  - assignment is the first thing we have that produces the difference
+    between a before and an after
+  - bound variables
+  - there're nothing shared among all of the instances of that name
+    + name is that we find something out
+  - environment maybe some function, or a table or something like that
+    but it is structured of table, it's made out of things called
+    frames
+  - assignment assure the ability to stain a state which called local
+    state without post out the variables in functions, it contained
+    the consistnent of program
+* computational objects
+  - unanticipated interations between objects is the source of most of
+    the bugs that occur in complicated programs
+  - by introducing this posibility of things having idendity and
+    sharing and having multiple names for the same thing, we got lots
+    of power. But we're going to pay for it with lots of complexity
+    and bugs
+* Stream procress
+  - stream to be a data structure that sorts of computes itself
+    incrementally sort of on-demand data structure
+* universal machine
+  - eval a program in the program ways
+  - we can make this data directed, so there wouldn't be sequence of
+    conditions here, there'd be a dispatch on some bits, they would
+    run fast
+  - this can be used to test feature of new language and about
+    language design

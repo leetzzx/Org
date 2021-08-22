@@ -1,32 +1,3 @@
-* Daily schedule
-** TODO Read the artical                                              :Daily:
-   DEADLINE: <2021-07-19 Mon +1d>
-   :PROPERTIES:
-   :LAST_REPEAT: [2021-07-19 Mon 09:05]
-   :END:
-   - State "DONE"       from "TODO"       [2021-07-19 Mon 09:05]
-   - State "DONE"       from "TODO"       [2021-07-17 Sat 09:32]
-   - State "DONE"       from "TODO"       [2021-07-16 Fri 09:06]
-   - State "DONE"       from "TODO"       [2021-07-15 Thu 07:29]
-   - State "DONE"       from "TODO"       [2021-07-13 Tue 23:05]
-   - State "DONE"       from "TODO"       [2021-07-12 Mon 23:51]
-   - State "DONE"       from "TODO"       [2021-07-11 Sun 10:04]
-   - State "DONE"       from "TODO"       [2021-07-10 Sat 23:33]
-   - C-c w elfeed
-** TODO Review the raw words                                          :Daily:
-   DEADLINE: <2021-07-19 Mon +1d>
-   :PROPERTIES:
-   :LAST_REPEAT: [2021-07-19 Mon 09:05]
-   :END:
-   - State "DONE"       from "TODO"       [2021-07-19 Mon 09:05]
-   - State "DONE"       from "TODO"       [2021-07-17 Sat 09:32]
-   - State "DONE"       from "TODO"       [2021-07-16 Fri 09:06]
-   - State "DONE"       from "TODO"       [2021-07-15 Thu 07:30]
-   - State "DONE"       from "TODO"       [2021-07-13 Tue 23:05]
-   - State "DONE"       from "TODO"       [2021-07-12 Mon 23:51]
-   - State "DONE"       from "TODO"       [2021-07-11 Sun 10:04]
-   - State "DONE"       from "TODO"       [2021-07-10 Sat 23:33]
-   - [[file:vocabulary.org][Raw words]]
 * Details learning
 ** DONE learn lisp
    DEADLINE: <2021-07-02 Fri> SCHEDULED: <2021-07-02 Fri>
@@ -42,7 +13,7 @@
 ** TODO Read gcc manual 
 ** TODO to know what is valgrind
 ** TODO Reading Principles of computer Organization
-** Edit utility.h
+** DONE Edit utility.h
    - utility.h [[file:~/CPP/utility.h][utility.h contains some functions]]
 ** TODO realize the auto include function
    - consequence is very important
@@ -64,23 +35,4 @@
 ** TODO HTDP (how to design program) not found
 ** TODO Realize the square root x
 ** TODO Realize autofresh in reading mode
-** DONE Work out the interation form of Fibonacci sequence
-   - 0 1 2 3 5 7 12
-   - 2 3 ,1 4 ,0 5
-   - (def (fibonacci n) (+ (fibonacci n-2) (fibonacci n-1)))
-   - (fibonacci n-2 n)
-   - n = n-1 + n-2 = (n - n-2) + (n-1 - n-3) = (n - n-3 - n-4) + (n - n-2  - n-4 - n-5)
-   - n-1 = n-2 + n-3
-   - n-2 = n-3 + n-4
-   - ---------------
-   - recursion algorithm
-   - 4 = 2 + 3
-   - 4 = (0 + 1) + (1 + 2)
-   - 4 = 1 + 1 + 1
-   - 5 = 3 + 4
-   - 5 = (1 + 2) + (2 + 3) = (1 + 1 + 1) + (1 + 1)
-   - ---------------
-   - interation algorithm
-   - 3 = 2 + 1
-   - 4 = 3 + 2
-   - 5 = 4 + 3
+** TODO write electron-yy
