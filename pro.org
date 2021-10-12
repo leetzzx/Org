@@ -48,6 +48,10 @@
        simplified mode is a queue transformed from real-simulate
        mode's queue, then software macro running in may perform
        differently and wrongly.
+* QT thread
+** variable for every widget
+   1. a head node for it's macro sequence
+   2. a backup node of node to run 
 * file
 ** .mwm/mwm.rc or .mwm.rc
    - this two files will contain most configuration in them. 
@@ -231,6 +235,9 @@
       device is created normally, this means we don't need to do
       according script for create a uinput device.
     - when storing char[12] for keymap, 12 or 18 seems not important
+    - while I realize appendnode function, I have to reinit node's
+      next node into NULL, Otherwise print_rawmacro and destrawlink
+      will merge error for uninitialized judgement , this is a problem
 * Further music game
 ** about reflection 
    - we can produce more particle fx rely on how many and how long
